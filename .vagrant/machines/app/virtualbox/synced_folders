@@ -1,0 +1,1 @@
+{"virtualbox":{"/home/vagrant/app":{"guestpath":"/home/vagrant/app","hostpath":"C:/Users/Ygot Teixeira/Engineering47/Week5/multi_vagrant_machine/environment/app","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/Users/Ygot Teixeira/Engineering47/Week5/multi_vagrant_machine","disabled":false,"__vagrantfile":true}}}
